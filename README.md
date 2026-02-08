@@ -4,5 +4,6 @@
 Open `mm` file in order to change Migrations folder location.
 3. run command `php mm` it will generate file using 'newmigrationtemplate.subs' file as template
 
-#### You can change `MMCLASSESPATH` in order to change Migration folder path. 
-#### You can change `MMFILE` in order to change Migration class instance.
+You can redefine `MMCLASSESPATH` in order to change Migration folder path. 
+
+You can redefine `MMFILE` in order to change Migration class instance.
