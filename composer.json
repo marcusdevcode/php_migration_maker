@@ -1,0 +1,11 @@
+{
+  "name": "mcs-salesforce-solution/mcs-salesforce-solution",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "autoload": {
+    "psr-4": {
+      "SampleNameSpace\\": "./classes"
+    }
+  }
+}

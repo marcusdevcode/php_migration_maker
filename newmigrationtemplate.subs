@@ -1,0 +1,19 @@
+<?php
+
+namespace SampleNameSpace\Migrations;
+
+use SampleNameSpace\IMigration;
+
+return new class implements IMigration
+{
+
+    public function up()
+    {
+        // TODO: Implement up() method.
+    }
+
+    public function down()
+    {
+        // TODO: Implement down() method.
+    }
+};
